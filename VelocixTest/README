@@ -1,0 +1,6 @@
+wordFrequency by Diego Izquierdo Fernandez
+v.01
+
+compile:        ./make
+execution:      ./wordFrequency <file>
+
